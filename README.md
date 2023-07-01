@@ -19,7 +19,5 @@ STEPS PERFORMED:
 MODELS USED:
 
 Logistic Regression
-
 Decision Tree Classification
-
 Random Forest
